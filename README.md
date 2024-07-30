@@ -9,3 +9,6 @@ instead of the package-manager-console you can install the dotnet tool on Mac or
 
 command to update the database 
 dotnet-ef database update
+
+Command to add migration
+dotnet-ef migrations add AddCategoryTableToDb
