@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/media/kasun/back_device/Repos/Practice/MVC-net-core-8/BulkyWeb/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/media/kasun/back_device/Repos/Practice/MVC-net-core-8/BulkyWeb/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/media/kasun/back_device/Repos/Practice/MVC-net-core-8/BulkyWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/media/kasun/back_device/Repos/Practice/MVC-net-core-8/BulkyWeb/Views/Shared/Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL05vdGlmaWNhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/media/kasun/back_device/Repos/Practice/MVC-net-core-8/BulkyWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
